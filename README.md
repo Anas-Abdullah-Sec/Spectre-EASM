@@ -88,14 +88,22 @@ SpectreEASM utilizes a dynamic scoring matrix to prioritize remediation efforts:
 
 * **Developer:** Anas Abdullah
 * **Field:** Cybersecurity, Ethical Hacking & Infrastructure Security
-* **LinkedIn:** [Anas Abdullah](https://www.google.com/search?q=https://www.linkedin.com/in/anas-abdullah/)
-
+- **LinkedIn:** [Anas Abdullah](https://www.linkedin.com/in/anas2abdullah/)
 ---
 
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to modify and expand for educational and enterprise auditing purposes.
 
-```
-
 ---
+
+## ⚠️ Disclaimer & Usage Caution
+
+> **IMPORTANT:** This tool is developed strictly for **authorized security testing, educational purposes, and infrastructure assessment**.
+
+- **Authorized Access Only:** Only scan target domains, networks, or assets that you own or have explicit, documented permission to test.
+- **Passive Reconnaissance:** Spectre-EASM primary modules operate passively; however, active network requests (such as HTTP header checks) may be logged by target Intrusion Detection Systems (IDS/WAF).
+- **Rate Limiting & Banning:** Excessive API requests or continuous rapid scanning may trigger rate limits or permanent IP blocks on external intelligence services (e.g., SecurityTrails, CRT.sh).
+- **No Liability:** The developer assumes **no responsibility** for any misuse, unintended network disruptions, or legal consequences caused by the execution of this framework.
+
+
